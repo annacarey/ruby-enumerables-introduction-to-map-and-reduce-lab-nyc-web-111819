@@ -69,7 +69,7 @@ def reduce_to_any_true(source_array)
   index = 0
 boolean = false
 while index < source_array.length
-    if source_array[index] = true
+    if source_array[index] == true
       boolean = true
 end 
 end 
