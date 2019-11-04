@@ -72,6 +72,7 @@ while index < source_array.length
     if source_array[index] == true
       boolean = true
 end 
+index +=1 
 end 
 return boolean
 end
